@@ -14,6 +14,7 @@ namespace Testes
             int result = c.Soma(3, 4);
 
             Assert.AreEqual(5, result);
+            Assert.AreEqual(7, result);
         }
     }
 }
