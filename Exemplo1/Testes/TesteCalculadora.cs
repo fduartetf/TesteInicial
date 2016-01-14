@@ -13,7 +13,7 @@ namespace Testes
             calculadora c = new calculadora();
             int result = c.Soma(3, 4);
 
-            Assert.AreEqual(7, result);
+            Assert.AreEqual(8, result);
         }
     }
 }
